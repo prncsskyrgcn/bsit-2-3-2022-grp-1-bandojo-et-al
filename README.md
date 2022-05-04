@@ -32,11 +32,13 @@ Music Improves Workouts. Music Helps You Heal. Music Reduces Stress and Eases An
 
 
 
-## Authors
+## Author
+
 
 - [@BandojoJanKianLuigi](https://github.com/BandojoJanKianLuigi)
 - [@GrafilIan](https://github.com/GrafilIan)
 - [@prncsskyrgcn](https://github.com/prncsskyrgcn)
+
 
 
 
