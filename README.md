@@ -8,6 +8,7 @@ Music is no stranger to anyone, but have you ever asked someone as to what music
 
 ## ❓FAQ❓
 
+
 #### What are the different kinds of music?
 
 Classical
@@ -28,15 +29,20 @@ Techno
 
 #### How could music help you?
 
-Music Improves Workouts. Music Helps You Heal. Music Reduces Stress and Eases Anxiety. Music Improves Sleep Quality.
+Music Improves Workouts. 
+Music Helps You Heal. 
+Music Reduces Stress and Eases Anxiety. 
+Music Improves Sleep Quality.
 
 
 
-## Authors
+## Author
 
-- [@BandojoJanKianLuigi](https://github.com/Sorsogon-State-University-Bulan-Campus/bsit-2-3-2022-grp-1-bandojo-et-al.git)
-- [@GrafilIan](https://github.com/Sorsogon-State-University-Bulan-Campus/bsit-2-3-2022-grp-1-bandojo-et-al.git)
-- [@prncsskyrgcn](https://github.com/Sorsogon-State-University-Bulan-Campus/bsit-2-3-2022-grp-1-bandojo-et-al.git)
+
+- [@BandojoJanKianLuigi](https://github.com/BandojoJanKianLuigi)
+- [@GrafilIan](https://github.com/GrafilIan)
+- [@prncsskyrgcn](https://github.com/prncsskyrgcn)
+
 
 
 
